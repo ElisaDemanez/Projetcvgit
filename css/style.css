@@ -1,0 +1,99 @@
+/*border-radius : img ronde */
+body
+{ 
+font-family: 'Barlow Condensed', sans-serif;
+background-size: cover;
+
+
+}
+
+.entete
+{ 
+
+	text-align: center;
+	float: right; 
+	margin-right: 5% ;
+	width: 65%;
+}
+
+
+#nom 
+{ 
+	font-size:50px 
+
+}
+ 
+ #poste 
+ { 
+ 	font-weight: lighter;
+ 	font-size: 40px ;
+ 	color:#2b2b2b;
+ }
+
+
+.presentation 
+{
+	float: left;
+	width: 30% ;
+	
+}
+
+img 
+{
+
+border-radius:50px;
+
+}
+
+.liste 
+{
+
+	
+	 
+}
+li
+{
+	list-style-type: none;
+}
+
+.citation 
+{
+ 	float: right; 
+ 	margin-right: 12% ; 
+ 	padding: 5px;
+ 	border-radius: 10px;
+ 	background-color: rgba(109, 109, 109, 0.45);
+ 	width: 55%;
+
+}
+
+.para
+{
+	float: right;
+	margin-right: 7% ;
+	width: 60%;
+
+}
+
+.fortitre 
+{
+	font-weight: bold
+}
+
+
+#competences 
+{ 
+float: left;
+ }
+
+#interet
+{ 
+float: right;
+margin-right: 30%;
+ }
+
+#competences dt 
+{
+	font-weight: bold ;
+	
+}
